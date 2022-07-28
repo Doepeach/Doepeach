@@ -2,7 +2,7 @@
 ------
 ## <div align=center>  Who is EunWoo Doe??</h1></div> 
  
-- 👨‍⚕️**Medical doctor** working at ToxNfill Daegu 
+- 👨‍⚕️**Medical doctor** working at MySeasonClinic Daegu
 - 💻I'm currently studying programming after-work 
 - 👨‍🎓Yeungnam Univ. College of Medicine grad. 
 
