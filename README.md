@@ -2,7 +2,7 @@
 ------
 ## <div align=center>  Who is EunWoo Doe??</h1></div> 
 
-- 🫡 **Korea Army Captain**
+- 🫡 **Korea Army Captain(Army Doctor)**
 - 👨‍⚕️**Medical doctor** working at MySeasonClinic Daegu
 - 💻I'm currently studying programming after-work 
 - 👨‍🎓Yeungnam Univ. College of Medicine grad. 
