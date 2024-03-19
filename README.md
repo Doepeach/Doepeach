@@ -24,7 +24,7 @@
 
 ----
 ### <div align=center>💌Contact💌</h1></div> 
-<a href="https://instagram.com/just_doe_it_peach"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><a href="mailto:doepeach@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doepeach@gmail.com"
+<a href="mailto:doepeach@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doepeach@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
