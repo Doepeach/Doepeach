@@ -8,7 +8,7 @@
 - 👨‍🎓Yeungnam Univ. College of Medicine grad. 
 
 **I Love**
- - ⚽Football and collecting football shirts
+ - 🤼‍♂️Jiujitsu
  - 🎮Leauge of Legends(Solo Rank KR server:Master)
  - 📚Reading books 
   
